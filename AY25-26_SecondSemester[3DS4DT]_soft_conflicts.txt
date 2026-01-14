@@ -1,11 +1,10 @@
 ﻿Soft conflicts of AY25-26_SecondSemester[3DS4DT].fet
-Generated with FET 7.5.3 on 1/13/26 9:39 AM
+Generated with FET 7.5.3 on 1/14/26 9:25 AM
 
-Number of broken soft constraints: 1
-Total soft conflicts: 0.95
+Number of broken soft constraints: 0
+Total soft conflicts: 0
 
 Soft conflicts list (in decreasing order):
 
-Time constraint min days between activities broken: activity with id=186 (    6/12 - Jepre Dinglasan - DCIT 23 - Laboratory - BSIT1-6) conflicts with activity with id=185 (6/12 -     Jepre Dinglasan - DCIT 23 - Laboratory - BSIT1-6), being 1 days too close, on days Thu and Thu, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
 
 End of file.
