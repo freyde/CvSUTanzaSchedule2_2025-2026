@@ -12482,21 +12482,21 @@
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="210"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-M2-1"></Students>
         <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="210"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-M2-1"></Students>
         <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="210"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-M2-1"></Students>
         <Room name="TMA 203"></Room>
@@ -12545,21 +12545,21 @@
       </Hour>
       <Hour name="12:00 - 12:30">
         <Activity id="209"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-2"></Students>
         <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="12:30 - 13:00">
         <Activity id="209"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-2"></Students>
         <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="13:00 - 13:30">
         <Activity id="209"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-2"></Students>
         <Room name="TMA 102"></Room>
@@ -12589,30 +12589,45 @@
       </Hour>
       <Hour name="15:30 - 16:00">
         <Activity id="208"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-1"></Students>
         <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
         <Activity id="208"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-1"></Students>
         <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="16:30 - 17:00">
         <Activity id="208"></Activity>
-        <Subject name="GNED 14"></Subject>
+        <Subject name="GNED 15"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Students name="BSE-E2-1"></Students>
         <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="17:00 - 17:30">
+        <Activity id="528"></Activity>
+        <Subject name="GNED 14"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Students name="BSE-M1-1"></Students>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="17:30 - 18:00">
+        <Activity id="528"></Activity>
+        <Subject name="GNED 14"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Students name="BSE-M1-1"></Students>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="18:00 - 18:30">
+        <Activity id="528"></Activity>
+        <Subject name="GNED 14"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Students name="BSE-M1-1"></Students>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="18:30 - 19:00">
       </Hour>

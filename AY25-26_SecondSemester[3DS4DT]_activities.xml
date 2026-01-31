@@ -1800,4 +1800,10 @@
     <Hour>08:00 - 08:30</Hour>
     <Room>Comlec 1</Room>
   </Activity>
+  <Activity>
+    <Id>528</Id>
+    <Day>Wed</Day>
+    <Hour>17:00 - 17:30</Hour>
+    <Room>TMA 204</Room>
+  </Activity>
 </Activities_Timetable>

@@ -1,5 +1,5 @@
 ﻿Soft conflicts of AY25-26_SecondSemester[3DS4DT].fet
-Generated with FET 7.7.1 on 1/31/26 9:06 AM
+Generated with FET 7.7.1 on 1/31/26 9:56 PM
 
 Number of broken soft constraints: 2
 Total soft conflicts: 1.9
